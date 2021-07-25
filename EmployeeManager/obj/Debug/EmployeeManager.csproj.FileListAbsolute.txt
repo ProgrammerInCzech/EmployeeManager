@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.exe.config
+D:\Visual Studio Projects\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.exe
+D:\Visual Studio Projects\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.pdb
+D:\Visual Studio Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.Properties.Resources.resources
+D:\Visual Studio Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csproj.GenerateResource.cache
+D:\Visual Studio Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.exe
+D:\Visual Studio Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.pdb
+D:\Visual Studio Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.Form1.resources
